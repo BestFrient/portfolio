@@ -1,0 +1,98 @@
+header{width:100% ;
+	height: 69.999px;
+	background-color: mediumspringgreen;
+	border: 2px solid royalblue;
+	text-align: center;
+	padding-top: 6px;
+}
+body{margin: 0%;
+	background-color: #1E1E1E; 
+}
+.logo{font-size: 30.01111px;
+	color:darkkhaki ;
+}
+.link{font-size: 30.1px;
+	color: red;
+	text-decoration: none;
+	margin-left: 39.9px;
+	border: 1px solid red;
+	padding: 7.1px;
+}
+.bg{width: 100%;
+	height: 600px;
+	background-image: url("img/12345678910.jpg");
+}
+.bc_main{
+	background-color: rgba(0, 0, 0, 0.6);
+	width: 100%;
+	height: 600px;
+}
+.text_main {
+	background-color: #1E1E1E;
+	width: 50%;
+	height: 350px;
+	position: absolute;
+	left:25%;
+	top: 30%;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.button {
+	border: 2px solid white;
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+} 
+.info{color: #00FFFF;
+	font-size:  25px;
+	text-align: center;
+	float: left;
+	width: 100%;
+}
+.img_hero{width: 30%;
+	float: left;
+}
+img{width: 100%;
+}
+footer {
+	width: 100%;
+	height: 70px;
+	border: 1px solid white;
+	background-color: black;
+	float: left;
+}
+
+.contact {
+	width: 50px;
+	margin-top: 10px;
+	margin-right: 50px;
+	border: 2px solid white;
+	float: right;
+} 
+.price{
+	text-align: left;
+	width: 50%;
+	height: 340px;
+	position: relative;
+	left: 570px;
+	top: 50px;
+}
+.works{
+	width: 100%;
+	height: 300px;
+	margin-top: 30px;
+
+}
+.project{
+	width: 20%;
+	height: 300px;
+	float: left;
+	text-align: center;
+	padding-right: 35px;
+	padding-left: 35px;
+	color: white;
+	font-size: 25px;
+
+} 
